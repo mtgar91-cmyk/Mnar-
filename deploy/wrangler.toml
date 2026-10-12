@@ -4,6 +4,7 @@ compatibility_date = "2026-08-28"
 workers_dev = true
 
 [vars]
+# ضع آيديك الرقمي على تيليجرام (أرقام فقط) بين علامتي الاقتباس
 DEV_ID = "6027967703"
 
 [[kv_namespaces]]
