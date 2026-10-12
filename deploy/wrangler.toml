@@ -10,4 +10,4 @@ DEV_ID = "6027967703"
 [[kv_namespaces]]
 binding = "BOT_KV"
 # الصق هنا الـ id الذي يعطيك إياه الأمر: wrangler kv namespace create BOT_KV
-id = "REPLACE_WITH_KV_NAMESPACE_ID"
+id = "b29f21a1cfb34638ba1896b6c6d7b767"
