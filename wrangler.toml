@@ -6,7 +6,7 @@ compatibility_date = "2024-09-01"
 #   wrangler kv namespace create BOT_KV
 # ضع الـ id الذي يعطيك إياه هنا:
 kv_namespaces = [
-  { binding = "BOT_KV", id = "PUT_YOUR_KV_NAMESPACE_ID_HERE" }
+  { binding = "BOT_KV", id = "b29f21a1cfb34638ba1896b6c6d7b767" }
 ]
 
 # المتغير غير السري (يمكن أيضاً وضعه كسر عبر wrangler secret put)
