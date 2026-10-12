@@ -5,7 +5,7 @@ workers_dev = true
 
 [vars]
 # ضع آيديك الرقمي على تيليجرام (أرقام فقط) بين علامتي الاقتباس
-DEV_ID = "REPLACE_WITH_DEVELOPER_ID"
+DEV_ID = "6027967703"
 
 [[kv_namespaces]]
 binding = "BOT_KV"
