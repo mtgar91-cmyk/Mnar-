@@ -1,5 +1,5 @@
 name = "telegram-group-guard-bot"
-main = "worker.js"
+main = "src/worker.js"
 compatibility_date = "2024-09-01"
 
 # بعد إنشاء الـ KV namespace بالأمر التالي:
