@@ -1,13 +1,12 @@
-name = "telegram-group-guard-bot"
+name = "mnar"
 main = "worker-cloudflare.js"
 compatibility_date = "2026-08-28"
 workers_dev = true
 
 [vars]
 # ضع آيديك الرقمي على تيليجرام (أرقام فقط) بين علامتي الاقتباس
-DEV_ID = "REPLACE_WITH_DEVELOPER_ID"
+DEV_ID = "6027967703"
 
 [[kv_namespaces]]
 binding = "BOT_KV"
-# الصق هنا الـ id الذي يعطيك إياه الأمر: wrangler kv namespace create BOT_KV
-id = "REPLACE_WITH_KV_NAMESPACE_ID"
+id = "b29f21a1cfb34638ba1896b6c6d7b767"
