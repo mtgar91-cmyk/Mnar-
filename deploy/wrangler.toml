@@ -1,4 +1,4 @@
-name = "telegram-group-guard-bot"
+name = "mnar"
 main = "worker-cloudflare.js"
 compatibility_date = "2026-08-28"
 workers_dev = true
