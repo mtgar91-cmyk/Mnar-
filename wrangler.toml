@@ -11,7 +11,7 @@ kv_namespaces = [
 
 # المتغير غير السري (يمكن أيضاً وضعه كسر عبر wrangler secret put)
 [vars]
-DEV_ID = "PUT_YOUR_TELEGRAM_USER_ID_HERE"
+DEV_ID = "6027967703"
 
 # الأسرار (BOT_TOKEN و WEBHOOK_SECRET) تُضبط عبر الأوامر التالية ولا توضع هنا:
 #   wrangler secret put BOT_TOKEN
